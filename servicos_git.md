@@ -1,3 +1,3 @@
-GitHub, github.com
-Bitbucket, bitbucket.org
+GitHub, github.com /
+Bitbucket, bitbucket.org /
 Gitlab, gitlab.com
