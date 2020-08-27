@@ -11,3 +11,5 @@ Com esse modo de mergear branches, o git evita diversos problemas, pois compara 
 ### 4 - Possibilidade de fazer vários commits no repositório local
 O que permite que armazenemos o trabalho realizado enquanto offline e enviemos ao repositório remoto quando acessarmos a internet. O fato de ser distribuído, sem depender de um servidor, permite esta possibilidade. 
 
+### 5 - Versionamento
+Temos a possibilidade de acessar nossos projetos em diversos pontos do seu desenvolvimento, não perdendo o histórico a cada nova versão. 
